@@ -1,4 +1,4 @@
-# Computer Vision Assignment 2
+# Computer Vision Assignment 2 - Fall 2023
 
 ## Overview
 
