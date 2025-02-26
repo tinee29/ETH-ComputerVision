@@ -1,10 +1,4 @@
 # Computer Vision Assignment 1 - Fall 2023
-
-**Professor:** Marc Pollefeys  
-**Student:** Igor Martinelli  
-**Email:** <maigor@ethz.ch>  
-**ID:** 19-916-048  
-
 ## Overview
 
 This assignment focuses on implementing and analyzing key computer vision techniques, including the Harris Corner Detector, local descriptor extraction, and descriptor matching. The code is divided into three main components:
