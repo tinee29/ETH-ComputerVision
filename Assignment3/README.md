@@ -1,10 +1,5 @@
 # Computer Vision Assignment 4 - Fall 2023
 
-**Professor:** Marc Pollefeys  
-**Student:** Igor Martinelli  
-**Email:** <maigor@ethz.ch>  
-**ID:** 19-916-048  
-
 ## Overview
 
 This assignment focuses on implementing two object recognition systems:
